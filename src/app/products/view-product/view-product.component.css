@@ -1,0 +1,11 @@
+section{
+    margin-top: 50px;
+}
+img{
+    transition: 3s;
+}
+
+img:hover{
+    transform: scale(1.2);
+    transition: 2s;
+}

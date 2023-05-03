@@ -1,0 +1,16 @@
+.banner{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/003/240/364/small/shopping-online-on-phone-paper-art-modern-pink-background-gifts-box-free-vector.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.card img{
+    transition: 3s;
+}
+
+.card:hover img{
+    transform: scale(1.1);
+    transition: 2s;
+
+}
